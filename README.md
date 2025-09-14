@@ -49,7 +49,4 @@ Dev dependencies:
    git clone https://github.com/yourusername/patient-portal-frontend.git
    cd patient-portal-frontend
 
-```bash
-npm install
-npm run seed
-npm run dev
+
